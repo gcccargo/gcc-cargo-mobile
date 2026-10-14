@@ -1,0 +1,19 @@
+{
+  "name": "GCC Cargo Service for iPhone",
+  "short_name": "GCC Cargo",
+  "description": "Freight and logistics solutions from Dubai to the world.",
+  "start_url": "./#/home",
+  "display": "standalone",
+  "background_color": "#061a2e",
+  "theme_color": "#061a2e",
+  "orientation": "portrait-primary",
+  "scope": "./",
+  "id": "gcc-cargo-iphone",
+  "categories": ["business", "travel", "utilities"],
+  "lang": "en",
+  "dir": "auto",
+  "icons": [
+    {"src":"icon-180.png","sizes":"180x180","type":"image/png","purpose":"any"},
+    {"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
